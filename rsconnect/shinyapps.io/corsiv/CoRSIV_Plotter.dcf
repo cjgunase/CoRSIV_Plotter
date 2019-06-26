@@ -1,0 +1,12 @@
+name: CoRSIV_Plotter
+title: CoRSIV_Plotter
+username:
+account: corsiv
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 444320
+bundleId: 2047987
+url: https://corsiv.shinyapps.io/CoRSIV_Plotter/
+when: 1556575472.70088
+asMultiple: FALSE
+asStatic: FALSE
